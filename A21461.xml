@@ -1,0 +1,1076 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Forasmoche as hit is opynly and notoriously ... ]</title>
+            <title>Proclamations. 1512</title>
+            <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1513</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21461</idno>
+            <idno type="STC">STC 7763</idno>
+            <idno type="STC">ESTC S118105</idno>
+            <idno type="EEBO-CITATION">99853314</idno>
+            <idno type="PROQUEST">99853314</idno>
+            <idno type="VID">18690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 4:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Forasmoche as hit is opynly and notoriously ... ]</title>
+                  <title>Proclamations. 1512</title>
+                  <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>[1] leaves   </extent>
+               <publicationStmt>
+                  <publisher>R. Pynson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1513]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An act concerning subsidies for war with France.</note>
+                  <note>Title from Steele, R.; imprint from STC.</note>
+                  <note>Also printed in small folio format as STC 9361.4.</note>
+                  <note>Imperfect; a fragment of one leaf; imperfect as filmed, illegible.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign Relations --  France --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18690:1"/>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmoche as b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is op<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>th moues <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eth by all the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uoth the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+be had in the churche of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Rome &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> counceile to be
+holden at the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mon our holy F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der the Pope <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceded. And m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame towarde <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> co<g ref="char:cmbAbbrStroke">̄</g>maundement. And that the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or
+auctoritie in the ſame cou<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> de<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> other
+great terrible Deccees <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the lynge the heith of the ſoule
+of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eto <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> le Realme of Fraunce &amp; all T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The ſeid Frenſche kyng that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+kynge wyll <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at therby ret<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moued and dayly moueth and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tted
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſocoure ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntenaunce and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t mot<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtaunce vnto our ſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ample to all
+criſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yth. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vnto almyghty god and to ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mo<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſame
+holy Fader the Pope and holy church do<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ageyn
+his highnes and his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his ſubiect of Eng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+lande as by water dyuerſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be by that mean<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other ſaye
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> has d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge for and abou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. the ſame which. <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>s N<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+great Coſtes and charges. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in dyuerſe ſundry wyſe of ſatch
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as euydently is knowen. The <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Como<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſent <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ment
+in lyke maner aſſemble <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ples and other thy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of
+Englande in maner and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rme <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> crcept the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rge
+o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and boroughes of this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lme o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> &amp; de<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>yed
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of .vi. M .<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i. of the ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. rv. and. r. <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as
+was before <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourme as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of y<hi rend="sup">e</hi> laſte graunteof .ii.
+hole rv. and r. vnto ear <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouereig<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lay people and
+inhabitaunt within the S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Citie o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bes <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auntes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nemuth in the Shire of No<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> people and
+inhabitant <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> S<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>r now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> euery of them or any of them for the goodes
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s and oth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Since <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Citie of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therof or within the
+Towne of great Ierue<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uth &amp; pr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+of be nat acted decompelled but that they an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vtterly quyte prouyded
+that this preſent graunt extende <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Cambr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> fours as to or for any other
+charge for a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of our <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deyece of the Reigne of kynge
+Edwarde the fourth that is to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of any g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is
+ſpecified be and ſtonde vtterly quyte and diſcharged <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+graunt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the exceptions therupon had to be payde in
+the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Eaſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whiche in albe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the yere or our lorde <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, this be
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ordeyned by aucto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ment that the knyghtes elected and recorded or and
+for euery Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ament <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ens of C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Townes;
+where collectours haue ben vſed to be named or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>poynted for the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+before this <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me graunted ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent and able perſones for the collection
+of the ſeid .xv. and .x. in euery of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Towne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the names an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeid
+collectours for the ſeid xv. and. v. the ſeid I<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghtes Cite<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens and but
+g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es for the S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> befor Shall ce<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. Chaun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y athiſſyde the Feeſt
+<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rnt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ollectours and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo waunce vpon their accompt of Fees
+wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as any Collector x. haue had at any ſeaſon in
+tymepaſſed. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deputed or any of them retu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ner or oth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> take more or gretter ſume or in other ma<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd accordinge to
+the gr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt ought to be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any Towne boro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that thenne. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Juſtices
+of the peas wherof <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Que <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> euery Shire Sspan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Imu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>:
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall hapyed queſtion and variaunce at the comp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es or
+perſones <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ued. And euery <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the ſeyd<g ref="char:punc">▪</g> place in the
+name of any ꝑrie ſo graued or wronged haue call power to bere and
+dece<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> well by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as by dyll <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do as by the ſame Iuſtices
+ſhalbe thought to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>uyent and reſonable for the directo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> age therof. And for the punyiſhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the offendour in that behalue. And
+for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id one .xv. and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as is before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> granted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tender but vnto a
+man ſu<g ref="char:cmbAbbrStroke">̄</g>me to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arde the ſcyd grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Comons after to their powres wyllynge I
+greater ſu<g ref="char:cmbAbbrStroke">̄</g>me towarde the ſeid charges to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of our ſeid ſoueraigne
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of dell in Sborter ty<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fall and indifferent maner to be leueyd then
+ly<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de Comon t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of .iv. and .x. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th or can be accordinge to the A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+vſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herof. Wyllynge a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nobles of this Realme towarde the payment of that
+gre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter ſume in ſuche <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> maner to be charge that the ſame Eſtates
+pyers and nobles <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gets charge themſelfe in their preparacion for them
+and the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reuynues or companyes towarde and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the ſeid de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nces <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ue by
+ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſent of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>poralles in this Parlyament aſſembled grau<g ref="char:cmbAbbrStroke">̄</g>ted vnto our
+ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id ſou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord one <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be taken and payde of euery perſone
+vnder wry<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Englande in maner and fourme as foloweth that is to ſay O<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ry
+Duke vt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>re Marques Et. Marqueſſe, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Baron / baronet / 
+and baroneſſe .xi. s. ¶ Of euery other <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ght na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beyng lorde <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+Parliament <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ¶ Of euery perſone man or woma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rentes Freholde
+Copyholde, or Auncien demeane Fees. Offices Anunytes or Corrodyes to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+or other <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or perſones to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> xl. li. or aboue .xx. s. ¶ Of
+euery perſone man or woman hauinge landes tenementes or tentes; Freholde
+Copyholded: Aunc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tant Fees O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>es to his owne vſe or other perſone or
+perſons to his vſe to the yerely value of .xx. l. or about &amp; vnder the
+yerely value of .xi. li. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ¶ Of euery tenementes / or tentes Freholde
+Copyholde or Auncyen demeane Fees offices Anunytes or Corrodyes to his owne
+vſe or other perſone or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rely value of .x. li. or aboue and vnder the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> value .xx li. v.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Of euery ſuche perſones hauynge landes
+<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es or r<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tes Freholde Copy Fees offices Anunytes or Corrodyes to his owne
+vſe or other perſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or perſons to v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s vſe to the yerely value of .xi.
+s. or about &amp; vnder the va<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <p>¶ Of euery ſuche perſone hauynge Landes tenementes or
+tentes Freholde Copyholdes: Auncyen demea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Fee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Offices In<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uytes or Cor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+other perſone or perſons to his vſe to any yerely value vnder the yerely
+value of .xi. s.</p>
+            <p>¶ Of euery perſone man or woman borne vnder the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynger
+obedyence hauynge goodes <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies moueable to the v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lue. DCCC fi. or
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>¶ Of euery ſuche perſon hauyng goodes or cateiles
+moueable to the value of. CCCC. fi. or about and vnder the<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> value of. DCCC.
+fi.</p>
+            <p>¶ Of euery ſuche ꝑſone hauyng goodes of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es
+moueable to the value of CC. fi. or aboue and vnder the ſcyd value o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> CCCC
+fi.</p>
+            <p>¶ Of euery ſuche ꝑſone hauyng goodes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les moueable to the value of. C. fi. or aboue and vnd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the value of
+CC.</p>
+            <p>¶ Of euery ſuche ꝑſon hauynge goodes or cate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les
+to the value of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and vnder th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>¶ Of euery ſuche ꝑſon hauyng goodes or ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hes
+mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>able to the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> value to ſaid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>¶ Of euery ſuche ꝑſone hauyng goodes or ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>les
+moueable to the value of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aboue and vn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r the value of the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id xl.
+fi.</p>
+            <p>¶ Of euery ſuche ꝑſone hauyng goodes of ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eiles
+moueable to the value of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>boue and vnder the value of xx. fi.</p>
+            <p>¶ Of euery ſuche perſone hauyng goodes or ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eiles
+moueable to the value of the or aboue and vnder the value of x. fi.</p>
+            <p>¶ Of euery alyen borne made denyſen hau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nge lyke
+ſubſtaunce in landes tente<g ref="char:cmbAbbrStroke">̄</g>s or other poſſeſſions as is
+beforeſeid or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>odes or ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eiles as ſeid lyke ſu<g ref="char:cmbAbbrStroke">̄</g>me of money to be tared
+as of hym that is borne vnder the kynges allegeaunce and no otherwyſe.</p>
+            <p>¶ And euery Alyen and ſtraunger not borne vnder the
+kynges allegeaunce &amp; not made denyſen hauyng any Landes te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>les moueable to any maner of value as is beforeſeyd to be charged
+with &amp; in the double in money after and in euery Rat<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+plan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the kynges obedyence is before rated. And ſo to paye the ſame double
+ſume.</p>
+            <p>¶ Of euery laborer Iournemen Artificer handcraftymen and
+ſeruaunt aſwell men as women aboue the age of .x<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. yere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> takynge wages
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the value of. xl. s. by yere or aboue and beynge borne vnder the
+kynges allegeaunce except women couerte dar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n.</p>
+            <p>¶ Of euery laborer Iournemen Artificer handcraftymen and
+ſeruaunt aſwell men as women aboue the age of .x<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. yere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> takynge wages
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the value of .xl. s. by yere or aboue, and beynge borne vnder the
+kynges allegeaunce except women couerte dar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n.</p>
+            <p>¶ Of euery laborer Iournemen Artificer handcraftymen &amp;
+ſeruant aſwel men as women aboue yſeid age of .xv. yeres takyng wag or
+other value of .xx. s. by yere or aboue &amp; vnder y<hi rend="sup">e</hi> value of .xl. s. beynge
+borne vnder the kynges obedyence women couerte baron except</p>
+         </div>
+      </body>
+   </text>
+</TEI>
